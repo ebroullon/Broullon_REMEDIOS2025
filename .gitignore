@@ -1,7 +1,7 @@
 # Ignore data files
 /remedios-tlp/*.mat
 /croco_model/*.mat
-/ADCP/*.mat
+/ADCP/ADCP_remedios.mat
 /remedios-tlp/gridfit.m
 *mat
 
