@@ -1,7 +1,9 @@
 # Ignore data files
 /remedios-tlp/*.mat
 /croco_model/*.mat
+/ADCP/*.mat
 /remedios-tlp/gridfit.m
+*mat
 
 /wind/
 Readme.pages
